@@ -6,3 +6,4 @@ ABCDEFGHI
 ABCDEFGHI
 JKLMNOPQRSTUVWXYZ 
 CI code is deployed
+deploy to Tomcat Server
